@@ -1,6 +1,6 @@
-# Hi there, I'm Dipendra Kumar Bhatt! 👋
+# Hi there, I'm Dipendra ! 👋
 
-I'm a passionate full stack web developer with a BTech degree in Computer Science and Engineering. I love building awesome web applications and exploring new technologies. Here's a glimpse of my skills:
+I love building awesome web applications and exploring new technologies. Here's a glimpse of my skills:
 
 ## Programming Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
@@ -33,14 +33,10 @@ I'm a passionate full stack web developer with a BTech degree in Computer Scienc
 - ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka&logoColor=white)
 - ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?style=flat-square&logo=rabbitmq&logoColor=white)
 
-## Projects
-- [Project 1](link-to-project-1): Short description
-- [Project 2](link-to-project-2): Short description
-- [Project 3](link-to-project-3): Short description
 
 ## Get in Touch
-- LinkedIn: [Dipendra Kumar Bhatt](https://www.linkedin.com/in/dipendra-kumar-bhatt/)
-- Portfolio: [YourPortfolio.com](https://www.yourportfolio.com)
-- Email: your-email@example.com
+- LinkedIn: [Dipendra Kumar Bhatt](https://www.linkedin.com/in/dipendra-kumar-bhatt-b42869189/)
+- Portfolio: [YourPortfolio.com](https://www.dipendrabhatt.com.np)
+- Email: kumarbhattdipendra@gmail.com
 
 Feel free to reach out if you want to collaborate on projects or just to say hi! 😊
